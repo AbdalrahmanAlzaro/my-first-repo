@@ -5,6 +5,8 @@ I study information systems at the Hashemite University. One of my hobbies is fo
 ****
 # My Skills
 + Speak in front of the audience
+
 +Dealing under pressure
+
 +Read the situation well
 
