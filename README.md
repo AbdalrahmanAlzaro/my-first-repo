@@ -11,7 +11,7 @@ I study information systems at the Hashemite University. One of my hobbies is fo
 + Read the situation well
 
 ****
-_ Languages 
+- Languages 
 * Arabic
 * English
 
