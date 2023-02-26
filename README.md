@@ -15,5 +15,4 @@ I study information systems at the Hashemite University. One of my hobbies is fo
 * Arabic
 * English
 
-<a href="[url](https://www.facebook.com/abohani2001/)"> facebook </a>
-
+[facebook](https://www.facebook.com/abohani2001/)
